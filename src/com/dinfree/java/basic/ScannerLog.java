@@ -30,5 +30,4 @@ public class ScannerLog {
 
         logger.fine("Shutdown main program !!");
 	}
-
 }

@@ -1,31 +1,16 @@
 package com.dinfree.java.basic;
 
 public class Gun {
-    private String model;       // model name of gun
+    protected String model;       // model name of gun
     protected int bulletCount;    // total count of bullet
 
     public void fire() {
-        System.out.println("=>");
+        System.out.println(model + "=>");
         bulletCount -= 1;
     }
 
-    public Gun() {
+    public Gun(String model) {
         bulletCount = 10;
+        this.model = model;
     }
-
-	public String getModel() {
-		return model;
-	}
-
-	public void setModel(String model) {
-		this.model = model;
-	}
-
-	public int getBulletCount() {
-		return bulletCount;
-	}
-
-	public void setBulletCount(int bulletCount) {
-		this.bulletCount = bulletCount;
-	}
 }
