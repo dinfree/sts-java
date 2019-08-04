@@ -2,7 +2,7 @@
  * 연산자 기본예제 - 사칙연과 대입연산
  */
 
-package com.dinfree.java.basic;
+package com.dinfree.java.part1;
 
 public class Operator1 {
 	public static void main(String[] args) {

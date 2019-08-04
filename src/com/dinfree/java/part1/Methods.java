@@ -1,7 +1,7 @@
 /**
 * 메서드 기본 예제
 */
-package com.dinfree.java.basic;
+package com.dinfree.java.part1;
 
 public class Methods {
     String name;

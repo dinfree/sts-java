@@ -2,7 +2,7 @@
 * 배열 기본 예제
 */
 
-package com.dinfree.java.basic;
+package com.dinfree.java.part1;
 
 import java.util.Arrays;
 import java.util.Collections;

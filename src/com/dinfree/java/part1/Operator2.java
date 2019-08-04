@@ -2,7 +2,7 @@
 * 연산자 기본 예제 - 비트시프트, XOR
 */
 
-package com.dinfree.java.basic;
+package com.dinfree.java.part1;
 
 public class Operator2 {
 

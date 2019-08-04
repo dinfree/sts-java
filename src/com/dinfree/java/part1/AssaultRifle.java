@@ -1,4 +1,4 @@
-package com.dinfree.java.basic;
+package com.dinfree.java.part1;
 
 public class AssaultRifle extends Gun {
     public void fire() {

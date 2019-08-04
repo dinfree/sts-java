@@ -1,4 +1,4 @@
-package com.dinfree.java.basic;
+package com.dinfree.java.part1;
 
 public class Gun {
     protected String model;       // model name of gun

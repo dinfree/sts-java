@@ -2,7 +2,7 @@
  * 키보드 입력과 로깅 기본 예제
  */
 
-package com.dinfree.java.basic;
+package com.dinfree.java.part1;
 
 import java.util.Scanner;
 import java.util.logging.ConsoleHandler;

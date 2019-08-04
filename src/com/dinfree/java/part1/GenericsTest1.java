@@ -1,4 +1,4 @@
-package com.dinfree.java.basic;
+package com.dinfree.java.part1;
 
 public class GenericsTest1 {
 	public static void main(String[] args) {

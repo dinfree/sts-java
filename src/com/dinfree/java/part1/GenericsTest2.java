@@ -1,4 +1,4 @@
-package com.dinfree.java.basic;
+package com.dinfree.java.part1;
 
 import java.util.ArrayList;
 import java.util.List;

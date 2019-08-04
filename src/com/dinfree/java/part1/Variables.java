@@ -1,7 +1,7 @@
 /**
 * 변수 기본 예제
 */
-package com.dinfree.java.basic;
+package com.dinfree.java.part1;
 
 public class Variables {
     // 멤버 변수, 인스턴스 변수
